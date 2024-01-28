@@ -111,7 +111,7 @@ Makefile используется для сборки библиотеки и т
 ## Сборка
 
 ```
-$ git clone  
+$ git clone https://github.com/ilugovoy/s21_matrix.git  
 $ cd .../src
 $ git switch develop  
 $ make check
